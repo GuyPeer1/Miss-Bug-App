@@ -1,0 +1,58 @@
+.bug-details {
+    text-align: center;
+    padding: 20px;
+}
+
+.bug-details h3 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.bug-details h4 {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FF7B54;
+}
+
+.bug-details h5 {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+}
+
+.bug-details p {
+    margin: 10px 0;
+    font-size: 14px;
+    color: #999;
+}
+
+.bug-details span {
+    font-weight: bold;
+    color: #3399ff;
+}
+
+.bug-details a {
+    display: inline-block;
+    margin: 20px 0;
+    padding: 10px 20px;
+    border: 1px solid #3399ff;
+    border-radius: 4px;
+    color: #3399ff;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.bug-details a:hover {
+    background-color: #3399ff;
+    color: #fff;
+}
+
+.bug-details a:active {
+    background-color: #224499;
+    color: #fff;
+}

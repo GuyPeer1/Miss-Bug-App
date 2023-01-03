@@ -1,0 +1,24 @@
+header {
+    background-color: #FF7B54;
+    padding: 10px;
+
+}
+
+nav a{
+    display: inline-block;
+    margin: 3px;
+    padding: 10px;
+    border-bottom: 1px solid transparent;
+    text-decoration: none;
+}
+nav a:hover{
+    border-bottom: 1px solid whitesmoke;
+    text-decoration: overline;
+    color: whitesmoke;
+}
+
+.main-title {
+    text-align: center;
+    color: #FFD56F;
+    font-family: Arial, Helvetica, sans-serif;
+}

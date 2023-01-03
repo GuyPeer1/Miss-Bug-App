@@ -1,0 +1,40 @@
+.bug-filter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bug-filter .form-first-line{
+    padding: 1em;
+}
+
+.bug-filter .form-second-line{
+    display: flex;
+    justify-content: center;
+    padding:  1em;
+}
+
+.bug-filter input[type="number"] {
+  max-width: 50px;
+  padding: 5px 10px;
+  margin: 0 5px;
+  text-align: center;
+}
+
+.bug-filter button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #CC9966;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .bug-filter button:hover {
+    background-color: #2277cc;
+  }

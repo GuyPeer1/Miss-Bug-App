@@ -1,0 +1,13 @@
+.bug-preview {
+    background-color: #333;
+    color: whitesmoke;
+    border-radius: .2em;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+    width: 200px;
+}
+
+.bug-preview span {
+    color: gold;
+}

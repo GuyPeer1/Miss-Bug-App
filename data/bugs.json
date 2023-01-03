@@ -1,0 +1,24 @@
+[
+  {
+    "title": "bubi",
+    "description": "puki",
+    "severity": 2,
+    "createdAt": 1672678413087,
+    "_id": "T9lPh",
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
+  },
+  {
+    "title": "MA NISH",
+    "description": "7",
+    "severity": 1,
+    "createdAt": 1672687967263,
+    "_id": "54S25",
+    "labels": [
+      "dev-branch"
+    ]
+  }
+]
